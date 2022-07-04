@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030805438940",
+    "firebase_url": "https://data-transfer-app-36ae2.firebaseio.com",
+    "project_id": "data-transfer-app-36ae2",
+    "storage_bucket": "data-transfer-app-36ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030805438940:android:321905462dfd216b0c4f19",
+        "android_client_info": {
+          "package_name": "com.example.datatransferapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030805438940-bjenilucuq2a34cdadj0trvgkdrjqeu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3IBwLOGOEBF8k8yerlGDQKV4KHbFVpMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030805438940-bjenilucuq2a34cdadj0trvgkdrjqeu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

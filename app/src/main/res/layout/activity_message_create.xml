@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".messageCreateActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="165dp"
+        android:layout_height="67dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="124dp"
+        android:layout_marginBottom="38dp"
+        android:background="#00BCD4"
+        android:onClick="chooseRecipient"
+        android:text="Click here to choose Recipient" />
+
+    <EditText
+        android:id="@+id/messageEditText"
+        android:layout_width="353dp"
+        android:layout_height="509dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="29dp"
+        android:background="#1B0F0F"
+        android:ems="10"
+        android:gravity="top"
+        android:hint="TYPE YOUR MESSAGE HERE"
+        android:inputType="textMultiLine"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF" />
+
+</RelativeLayout>
